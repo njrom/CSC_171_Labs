@@ -1,2 +1,2 @@
-# CSC_171_Labs
+# Computer_Science_172_Labs
 Smaller Weekly Tasks 
